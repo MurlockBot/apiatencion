@@ -1,0 +1,15 @@
+
+w
+java:S1104"UMake idCliente a static final constant or non-public and provide accessors if needed.(¹æÂŒùÿÿÿÿ8Üó¢¾1
+}
+java:S1104"[Make horarioRegistro a static final constant or non-public and provide accessors if needed.(ìÓ’Şùÿÿÿÿ8İó¢¾1
+}
+java:S1104"[Make horarioAtencion a static final constant or non-public and provide accessors if needed.(Íºú±üÿÿÿÿ8İó¢¾1
+€
+java:S1104"cMake horarioFinalizaAtencion a static final constant or non-public and provide accessors if needed.(¬‘’8İó¢¾1
+~
+java:S1104!"\Make duracionAtencion a static final constant or non-public and provide accessors if needed.(¿í˜Õúÿÿÿÿ8Şó¢¾1
+}
+java:S1104#"[Make usuarioAtencion a static final constant or non-public and provide accessors if needed.(ŒÛÁ­şÿÿÿÿ8Şó¢¾1
+t
+java:S1104%"WMake esPrioridad a static final constant or non-public and provide accessors if needed.( —Åõ8Şó¢¾1

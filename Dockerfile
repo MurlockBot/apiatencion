@@ -2,7 +2,7 @@
 FROM openjdk:17
 
 # Expone el puerto 8080 (ajústalo según tus necesidades)
-EXPOSE 8080
+EXPOSE 8081
 
 # Copia el archivo JAR de la aplicación al contenedor (asegúrate de ajustar el nombre del archivo JAR según tu proyecto)
 COPY ./target/*.jar /app.jar
